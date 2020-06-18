@@ -29,9 +29,9 @@ The work you do in this assignment will be published to the same directory where
 ### Create the first HTML page
 
 - create an HTML document named `professional_site.html`
-- in the `body` of this HTML document, create a `div` element with the class `container`.
-- add `link` and `script` elements so the Bootstrap CSS and Javascript files you saved when you installed Bootstrap. These must be loaded by the browser when it loads the page.
-- add a `link` to another CSS file that will hold your own custom CSS code. This file will be named `css`/`custom.css`
+- add `link` and `script` elements to the `head` of this document eso the Bootstrap CSS and Javascript files you saved when you installed Bootstrap. These must be loaded by the browser when it loads the page.
+- add a `link` to another CSS file from the `head` of this document that will hold your own custom CSS code. This custom CSS file will be named `css`/`custom.css`
+- in the `body` of this HTML document, create a `div` element with the class `container`
 
 ### Create a custom CSS file
 
